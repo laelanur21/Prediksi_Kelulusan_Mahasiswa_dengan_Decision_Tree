@@ -28,6 +28,6 @@ hasil prediksi kegagalan (DropOut) mahasiswa dikatakan cukup baik dengan tingkat
 dan didapatkan faktor-faktor yang dapat mempengaruhi kelulusan mahasiswa yaitu course  dan previous qualification.
 
 ## Desain RapidMiner
-![desain rapidminer](https://github.com/laelanur21/Prediksi_Kelulusan_Mahasiswa_dengan_Decision_Tree/assets/96130416/bfa9cfb1-320a-434c-814f-5803c47f2c71)
+![desain rapidminer](https://github.com/laelanur21/Prediksi_Kelulusan_Mahasiswa_dengan_Decision_Tree/assets/96130416/317e286f-7b67-487f-a097-5592881a56e1)
 
 ## 

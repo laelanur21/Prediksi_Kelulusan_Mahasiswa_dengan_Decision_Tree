@@ -7,6 +7,7 @@ Kelas          : TI.21.A.3
 Mata Kuliah    : Data Mining
 Dosen Pengampu : Amali M.T., M.Sc
 ```
+
 ## Teori singkat
 Data mining adalah proses pengumpulan dan pengolahan data yang bertujuan untuk mengekstrak informasi penting pada data.
 
@@ -25,3 +26,8 @@ data testing 30%. Hasil penelitian dengan Algoritma Decision Tree dikatakan memi
 hasil prediksi kelulusan mahasiswa dikatakan cukup baik dengan tingkat precision sebesar 74.05% dan tingkat recall sebesar 93.82%, 
 hasil prediksi kegagalan (DropOut) mahasiswa dikatakan cukup baik dengan tingkat precision sebesar 73.02% dan tingkat recall sebesar 80.05%, 
 dan didapatkan faktor-faktor yang dapat mempengaruhi kelulusan mahasiswa yaitu course  dan previous qualification.
+
+## Desain RapidMiner
+![
+
+## 
